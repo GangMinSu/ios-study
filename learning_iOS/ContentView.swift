@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("- VILLAIN's iOS Learning -").foregroundColor(.black).bold()
+            Text("How to use Git&Github").foregroundColor(.gray)
         }
         .padding()
     }
